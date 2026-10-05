@@ -2,17 +2,6 @@
 
 ## Automated Training & Tuning with an Open-Source AutoML Tool (FLAML)
 
-| | |
-|---|---|
-| **Module** | DAM405 – Machine Learning Operations |
-| **Module tutor** | Kamal Acharya |
-| **Student name** | [Your Name] |
-| **Student ID** | [Your Student ID] |
-| **Date** | 5 October 2026 |
-| **Tool used** | FLAML (`flaml[automl]`), scikit-learn, LightGBM, XGBoost, pandas, joblib |
-| **Environment** | Google Colab (Python 3.13) |
-| **Notebook** | `DAM405 Practical 4 AutoML.ipynb` |
-
 ---
 
 ## 1. Introduction
